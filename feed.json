@@ -1,0 +1,45 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "鹤白居的博客",
+  "home_page_url": "http://www.hebaiju.cn/",
+  "feed_url": "http://www.hebaiju.cn/feed.json",
+  "description": "搞钱，迎娶白富美，走上人生巅峰。",
+  "icon": "http://www.hebaiju.cn/favicon.jpg",
+  "favicon": "http://www.hebaiju.cn/favicon.svg",
+  "authors": [
+    {
+      "name": "H E B A I J U",
+      "url": "https://valaxy.site"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://www.hebaiju.cn/posts/250726ESP8266实现配网",
+      "url": "http://www.hebaiju.cn/posts/250726ESP8266实现配网",
+      "title": "ESP8266实现配网",
+      "content_html": "<h2>ESP8266实现配网</h2>\n<p>我目前处于大学阶段，在参加一个社团，里面主要是做项目，比赛的一个小团队。<br>\n在这个小团队中，我主要负责的是一个项目的硬件部分，<br>\n比如说硬件的组装，电路</p>\n<br/><p>访问 <a href=\"http://www.hebaiju.cn/posts/250726ESP8266实现配网\" target=\"_blank\">http://www.hebaiju.cn/posts/250726ESP8266实现配网</a> 阅读全文。</p>",
+      "date_published": "2025-07-26T00:00:00.000Z",
+      "date_modified": "2025-07-26T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "H E B A I J U",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "http://www.hebaiju.cn/posts/250725小破站成立了",
+      "url": "http://www.hebaiju.cn/posts/250725小破站成立了",
+      "title": "小破站成立了！",
+      "content_html": "<h2>小破站成立了！</h2>\n<p>  今天时间是2025年7月25日，我在<a href=\"https://www.liveou.top\">liveou的博客</a>上创建了一个我的小破站，用于记录我生活中的点点</p>\n<br/><p>访问 <a href=\"http://www.hebaiju.cn/posts/250725小破站成立了\" target=\"_blank\">http://www.hebaiju.cn/posts/250725小破站成立了</a> 阅读全文。</p>",
+      "date_published": "2025-07-25T00:00:00.000Z",
+      "date_modified": "2025-07-25T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "H E B A I J U",
+          "url": "https://valaxy.site"
+        }
+      ]
+    }
+  ]
+}
